@@ -1,0 +1,2 @@
+Taken Banglore house prices dataset and analyzes the average data of every area of the banglore and visualizes the data.
+and visualize the data 
